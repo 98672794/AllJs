@@ -1,0 +1,2 @@
+# AllJs
+all javascript
